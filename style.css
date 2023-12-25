@@ -96,6 +96,12 @@ nav4 h4{
 #page1-content h1  span{
     font-family: rejouice;
 }
+#page2{
+    height: 100vh;
+    width: 100%;
+    background-color: #dadada;
+    position: relative;
+}
 
 
 
